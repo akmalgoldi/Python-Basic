@@ -6,13 +6,10 @@ Kumpulan script Python dasar.
 
 ## 📚 **Daftar Materi**
 
-1. **Variabel 🧮**
-2. **Percabangan 🤔**
-3. **Perulangan 🔁**
-4. **Fungsi 🛠️**
-5. **List 📋**
-6. **Dictionary 📚**
-7. **Dasar OOP 👨‍🏫**
+1. **Conditional Statements 🤔**
+2. **Data Structures 📚**
+3. **Function 🛠️**
+4. **Looping 🔁**
 
 ---
 
