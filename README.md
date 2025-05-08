@@ -19,17 +19,18 @@ Setiap file bisa langsung dijalankan dan dipelajari satu per satu — cocok untu
    python 01-variabel.py
    ```
 
-Pastikan Python 3 sudah terinstal di perangkatmu.
+Pastikan Python 3 sudah terinstal.
 
 ---
 
 📁 Python Basic
-├── conditional_statements/     # if, if-else, if-elif-else, if nested
+├── conditional_statements/  # if, if-else, if-elif-else, if nested
 ├── data_structures/
-│   ├── built_in/              # list, tuple, set, dictionary, studi kasus
-│   └── user_defined/          # linked list
-├── function/                  # berbagai jenis fungsi: default, lambda, recursion, dll
-├── looping/                   # perulangan for dan while
+│   ├── built_in/  # list, tuple, set, dictionary, studi kasus
+│   └── user_defined/  # linked list
+├── function/  # berbagai jenis fungsi: default, lambda, recursion, dll
+└── looping/  # perulangan for dan while
+                # perulangan for dan while
 
 ---
 
