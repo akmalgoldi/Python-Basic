@@ -1,8 +1,18 @@
 # 🐍 Python Basic
 
-Repositori ini berisi kumpulan script Python dasar.  
-Materinya mulai dari variabel 🧮, percabangan 🤔, perulangan 🔁, fungsi 🛠️, list 📋, dictionary 📚, sampai dasar OOP 👨‍🏫.  
-Setiap file bisa langsung dijalankan dan dipelajari satu per satu — cocok untuk belajar santai sambil ngopi ☕ atau rebahan 😌.
+Kumpulan script Python dasar.  
+
+---
+
+## 📚 **Daftar Materi**
+
+1. **Variabel 🧮**
+2. **Percabangan 🤔**
+3. **Perulangan 🔁**
+4. **Fungsi 🛠️**
+5. **List 📋**
+6. **Dictionary 📚**
+7. **Dasar OOP 👨‍🏫**
 
 ---
 
