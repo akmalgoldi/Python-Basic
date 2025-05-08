@@ -33,6 +33,4 @@ Pastikan Python 3 sudah terinstal.
 
 ---
 
-## 👨‍💻 Tentang
 
-Dibuat oleh [Akmal](https://github.com/akmalgoldi) 
